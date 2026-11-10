@@ -98,6 +98,6 @@ What can be seen is a larger amount of outliers for frequent users in their tota
 
 ### Case Study Roadmap - Share
 
-● Most users train in a Light Active rhythm, for both time and distance. It'd be interesting to suggest other light training programs or even higher intensity (moderate) for these users;
-● Advertise towards Light Active exercises since they're less intimidating for new users, introducing articles to show the benefits of different training intensities;
-● Get data to see the percentage of premium users so the app can be improved with the average user in mind
+● Most users train in a Light Active rhythm, for both time and distance. It'd be interesting to suggest other light training programs or even higher intensity (moderate) for these users;  
+● Advertise towards Light Active exercises since they're less intimidating for new users, introducing articles to show the benefits of different training intensities;  
+● Get data to see the percentage of premium users so the app can be improved with the average user in mind  
