@@ -15,7 +15,7 @@ You will produce a report with the following deliverables:
 5. Supporting visualizations and key findings
 6. Your top high-level content recommendations based on your analysis
 
-**Case Study Roadmap - Ask**
+### Case Study Roadmap - Ask 
 
 Guiding questions  
 ● What is the problem you are trying to solve?  
@@ -28,7 +28,7 @@ Key tasks
 Deliverable  
 ● A clear statement of the business task
 
-**Case Study Roadmap - Prepare**
+### Case Study Roadmap - Prepare
 
 Guiding questions  
 ● Where is your data located?  
@@ -48,7 +48,7 @@ Key tasks
 Deliverable  
 ● A description of all data sources used
 
-**Case Study Roadmap - Process**
+### Case Study Roadmap - Process
 
 Guiding questions  
 ● What tools are you choosing and why?  
@@ -66,7 +66,7 @@ Key tasks
 Deliverable  
 ● Documentation of any cleaning or manipulation of data
 
-**Case Study Roadmap - Analyze**
+### Case Study Roadmap - Analyze
 
 Guiding questions  
 ● How should you organize your data to perform analysis on it?  
@@ -84,7 +84,7 @@ Key tasks
 Deliverable  
 ● A summary of your analysis
 
-**Case Study Roadmap - Share**
+### Case Study Roadmap - Share
 
 Guiding questions  
 ● Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?  
@@ -103,7 +103,7 @@ Key tasks
 Deliverable  
 ● Supporting visualizations and key findings
 
-**Case Study Roadmap - Act**
+### Case Study Roadmap - Act
 
 Guiding questions  
 ● What is your final conclusion based on your analysis?  
